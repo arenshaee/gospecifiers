@@ -9,3 +9,5 @@ Install using command below:
 Run command below to display go string specifiers:
 
 `$ gospecifiers`
+
+Source of specifiers: https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/
